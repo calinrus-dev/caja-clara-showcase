@@ -42,8 +42,8 @@ Registrar una venta es solo una parte de la jornada: también hay recepciones, d
 
 ## Sobre este repositorio
 
-Caso de estudio público de un proyecto con implementación privada. Reúne documentación, diagramas e imágenes seleccionadas. Los detalles del motor, integraciones, datos operativos y código se mantienen en los repositorios privados.
+Caso de estudio público de un proyecto con implementación privada. Reúne documentación, diagramas e imágenes seleccionadas. El motor, las integraciones y los datos operativos se mantienen privados. Las piezas públicas seleccionadas indican su origen y alcance.
 
 Revisión editorial: 28 de septiembre de 2026. Autor: [Calin Rus](https://github.com/calinrus-dev).
 
-[calinrus.com](https://calinrus.com) · [Instagram @c4linrus](https://www.instagram.com/c4linrus/) · [Todos los proyectos](https://github.com/calinrus-dev/portfolio)
+[Instagram @c4linrus](https://www.instagram.com/c4linrus/) · [LinkedIn / calinrus](https://www.linkedin.com/in/calinrus/) · [Todos los proyectos](https://github.com/calinrus-dev/portfolio)
